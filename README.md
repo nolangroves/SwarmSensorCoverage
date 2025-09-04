@@ -1,6 +1,6 @@
 # Swarm Robot Simulation
 
-An implementation of a multi-robot sensor coverage algorithm, based on the paper [&#34;Distributed Control of Multiple Robots for Sensor Coverage&#34; (Springer, 2009)](https://link.springer.com/chapter/10.1007/978-4-431-65941-9_30). The focus is on maximizing the area covered by the robots' sensors in a 2D environment. Robots use local sensing and distributed control to spread out and optimize coverage, demonstrating principles of swarm intelligence.
+Created for my Multi-Robot Systems final project, this code is an implementation of a multi-robot sensor coverage algorithm, based on the paper [&#34;Distributed Control of Multiple Robots for Sensor Coverage&#34; (Springer, 2009)](https://link.springer.com/chapter/10.1007/978-4-431-65941-9_30). The focus is on maximizing the area covered by the robots' sensors in a 2D environment. Robots use local sensing and distributed control to spread out and optimize coverage, demonstrating principles of swarm intelligence.
 
 
 https://github.com/user-attachments/assets/f39b7bac-5e65-4f2b-a0f5-2922185b24e4
